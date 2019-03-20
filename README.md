@@ -1,1 +1,1 @@
-# -aws-cross-account-cross-region-pipeline-codebuild
+# aws-cross-account-cross-region-pipeline-codebuild
